@@ -1,0 +1,7 @@
+   0 touch myfirstbashscript.sh
+   1 ls
+   2 chmod u+x myfirstbashscript.sh
+   3 USER="dasha"
+   4 nano myfirstbashscript.sh
+   5 ./myfirstbashscript.sh
+   6 history > history.txt
